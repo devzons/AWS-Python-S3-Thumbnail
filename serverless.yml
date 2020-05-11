@@ -33,7 +33,7 @@ provider:
      THUMBNAIL_SIZE: "128"
 
 custom:
-  bucket: stephane-s3-thumbnail-generator
+  bucket: devzons-s3-thumbnail-generator
   pythonRequirements:
    dockerizePip: true
 
